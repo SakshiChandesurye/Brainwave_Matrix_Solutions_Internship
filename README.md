@@ -11,8 +11,12 @@ Download from Kaggle: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 Fake News Detection (Task 1):
 
-FAKENEWSDETECTION1(TASK1) Dataset: https://drive.google.com/file/d/1q5jpI5M1EA9x3YPrLupmiu3gffkmGlHj/view?pli=1
+FAKENEWSDETECTION1(TASK1) Dataset: 
 
-FAKENEWSDETECTION2(TASK1) Dataset: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+https://drive.google.com/file/d/1q5jpI5M1EA9x3YPrLupmiu3gffkmGlHj/view?pli=1
+
+FAKENEWSDETECTION2(TASK1) Dataset: 
+
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
 
 Additionally, the .html files are used for review. Please download and review these files as they are integral to the execution and evaluation of the models presented in the projects.
